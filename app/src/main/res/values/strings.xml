@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Sneaky</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    //Headings
+    <string name="heading_one">Event Organisation</string>
+    <string name="heading_two">Academic Announcements</string>
+    <string name="heading_three">Calendars &amp; Timetables</string>
+    <string name="heading_fourth">Pay Anywhere</string>
+
+    //Description
+    <string name="desc_one">Our app is designed to simplify and streamline the event management process.</string>
+    <string name="desc_two">Our app streamlines the process of making academic announcements.</string>
+    <string name="desc_three">Updated academic calendars and schedules are available through our app.</string>
+    <string name="desc_fourth">Using our app, it will be simple to pay for an event from anywhere.</string>
+
+</resources>
