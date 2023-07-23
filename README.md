@@ -1,4 +1,4 @@
-![Cover image](https://github.com/nileshparab42/Diabetes-Detection/blob/master/Assets/DD-Cover.png)
+![Cover image](https://github.com/nileshparab42/Sneaky/blob/master/assets/Sneaky.png)
 
 # Sneaky - College Event Organization App
 
