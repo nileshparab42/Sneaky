@@ -1,10 +1,12 @@
 ![Cover image](https://github.com/nileshparab42/Sneaky/blob/master/assets/Sneaky.png)
 
-# Sneaky - College Event Organization App
+# Sneaky - Sneaker Buying App
 
 Welcome to Sneaky, your ultimate destination for sneaker enthusiasts! Sneaky is an Android app designed to provide a seamless and immersive experience for exploring, discovering, and staying up-to-date with the latest sneaker releases, trends, and collections. Whether you're a casual sneakerhead or a dedicated collector, Sneaky has something exciting to offer.
 
 ## Features
+
+![Features](https://github.com/nileshparab42/Sneaky/blob/master/assets/Sneaky.png)
 
 - **Sneaker Catalog:** Browse an extensive catalog of sneakers, featuring popular brands and exclusive releases.
 
