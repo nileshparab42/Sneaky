@@ -6,7 +6,7 @@ Welcome to Sneaky, your ultimate destination for sneaker enthusiasts! Sneaky is 
 
 ## Features
 
-![Features](https://github.com/nileshparab42/Sneaky/blob/master/assets/Sneaky.png)
+![Features](https://github.com/nileshparab42/Sneaky/blob/master/assets/Features.png)
 
 - **Sneaker Catalog:** Browse an extensive catalog of sneakers, featuring popular brands and exclusive releases.
 
